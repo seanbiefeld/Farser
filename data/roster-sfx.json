@@ -1,0 +1,3138 @@
+{
+    "{http://www.w3.org/2000/xmlns/}str": "java.lang.String",
+    "{http://www.w3.org/2000/xmlns/}dt": "http://xsltsl.org/date-time",
+    "{http://www.w3.org/2000/xmlns/}xts": "http://www.xmlteam.com",
+    "{http://www.w3.org/2000/xmlns/}exsl": "http://exslt.org/common",
+    "path_id": "american-football/l.nfl.com/dynamic-resource-file/xt.14094388-roster-sfx",
+    "{http://www.xmlteam.com}systemid": "NFL_Roster_XML",
+    "{http://www.xmlteam.com}tsnid": "14094388",
+    "sports_metadata": [
+        {
+            "{http://www.w3.org/2000/xmlns/}fs": "java.io.File",
+            "date_time": "20110816T093600-0400",
+            "doc_id": "xt.14094388-roster-sfx",
+            "{http://www.xmlteam.com}tsnslug": "ABX%ROSTER-SFX",
+            "language": "en-US",
+            "revision_id": "l.nfl.com-t.31-2011-roster",
+            "fixture_key": "roster",
+            "document_class": "dynamic-resource-file",
+            "fixture_name": "Roster",
+            "sports_title": [
+                {}
+            ],
+            "sports_content_codes": [
+                {
+                    "sports_content_code": [
+                        {
+                            "code_name": "The Sports Network",
+                            "code_key": "sportsnetwork.com",
+                            "code_type": "publisher"
+                        },
+                        {
+                            "code_name": "XML Team Solutions, Inc.",
+                            "code_key": "xmlteam.com",
+                            "code_type": "distributor"
+                        },
+                        {
+                            "code_type": "sport",
+                            "code_key": "15003000",
+                            "code_name": "American Football"
+                        },
+                        {
+                            "code_type": "league",
+                            "code_key": "l.nfl.com",
+                            "code_name": "National Football League"
+                        },
+                        {
+                            "code_type": "priority",
+                            "code_key": "normal"
+                        },
+                        {
+                            "code_type": "conference",
+                            "code_key": "c.nfc",
+                            "code_name": "National"
+                        },
+                        {
+                            "code_type": "team",
+                            "code_key": "l.nfl.com-t.31",
+                            "code_name": "San Francisco 49ers"
+                        },
+                        {
+                            "code_type": "roster-listing",
+                            "code_key": "complete",
+                            "code_name": "Roster Listing"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "statistic": [
+        {
+            "content_label": "Team Roster",
+            "statistic_metadata": [
+                {
+                    "team_coverage": "single-team",
+                    "date_coverage_type": "season-regular",
+                    "date_coverage_value": "2011"
+                }
+            ],
+            "team": [
+                {
+                    "team_metadata": [
+                        {
+                            "{http://www.w3.org/2000/xmlns/}fs": "java.io.File",
+                            "team_key": "l.nfl.com-t.31",
+                            "alignment": "none",
+                            "name": [
+                                {
+                                    "first": "San Francisco",
+                                    "last": "49ers"
+                                }
+                            ]
+                        }
+                    ],
+                    "player": [
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9161",
+                                    "uniform_number": "35",
+                                    "position_regular": "cornerback",
+                                    "height": "5-11",
+                                    "weight": "193",
+                                    "status": "A",
+                                    "date_of_birth": "7/20/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Phillip",
+                                            "last": "Adams"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "South Carolina State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.1327",
+                                    "uniform_number": "2",
+                                    "position_regular": "kicker",
+                                    "height": "5-10",
+                                    "weight": "200",
+                                    "status": "A",
+                                    "date_of_birth": "12/9/1974",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "David",
+                                            "last": "Akers"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "13",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Louisville"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6934",
+                                    "uniform_number": "54",
+                                    "position_regular": "linebacker",
+                                    "height": "6-3",
+                                    "weight": "258",
+                                    "status": "A",
+                                    "date_of_birth": "12/31/1985",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Antwan",
+                                            "last": "Applewhite"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "4",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "San Diego State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10419",
+                                    "uniform_number": "61",
+                                    "position_regular": "center",
+                                    "height": "6-3",
+                                    "weight": "285",
+                                    "status": "A",
+                                    "date_of_birth": "12/28/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Chase",
+                                            "last": "Beeler"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Stanford"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10420",
+                                    "uniform_number": "6",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-0",
+                                    "weight": "190",
+                                    "status": "A",
+                                    "date_of_birth": "11/14/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Tyler",
+                                            "last": "Beiler"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Bridgewater"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10421",
+                                    "uniform_number": "1",
+                                    "position_regular": "quarterback",
+                                    "height": "6-4",
+                                    "weight": "230",
+                                    "status": "A",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "McLeod",
+                                            "last": "Bethel-Thompson"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Sacramento State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10422",
+                                    "uniform_number": "9",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-1",
+                                    "weight": "188",
+                                    "status": "I",
+                                    "date_of_birth": "10/6/1988",
+                                    "health": "injured",
+                                    "name": [
+                                        {
+                                            "first": "Dontavia",
+                                            "last": "Bogan"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "injured",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "USF"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8212",
+                                    "uniform_number": "75",
+                                    "position_regular": "tackle-offensive",
+                                    "height": "6-7",
+                                    "weight": "328",
+                                    "status": "A",
+                                    "date_of_birth": "5/4/1987",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "RT",
+                                    "name": [
+                                        {
+                                            "first": "Alex",
+                                            "last": "Boone"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Ohio State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9017",
+                                    "uniform_number": "53",
+                                    "position_regular": "linebacker",
+                                    "height": "6-0",
+                                    "weight": "242",
+                                    "status": "A",
+                                    "date_of_birth": "5/28/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "NaVorro",
+                                            "last": "Bowman"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Penn State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9460",
+                                    "uniform_number": "26",
+                                    "position_regular": "cornerback",
+                                    "height": "5-10",
+                                    "weight": "197",
+                                    "status": "A",
+                                    "date_of_birth": "8/20/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Tramaine",
+                                            "last": "Brock"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Belhaven College"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6396",
+                                    "uniform_number": "55",
+                                    "position_regular": "linebacker",
+                                    "height": "6-3",
+                                    "weight": "259",
+                                    "status": "A",
+                                    "date_of_birth": "3/14/1984",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "LOLB",
+                                    "name": [
+                                        {
+                                            "first": "Ahmad",
+                                            "last": "Brooks"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "6",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Virginia"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6652",
+                                    "uniform_number": "25",
+                                    "position_regular": "cornerback",
+                                    "height": "5-10",
+                                    "weight": "193",
+                                    "status": "A",
+                                    "date_of_birth": "1/6/1985",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "LCB",
+                                    "name": [
+                                        {
+                                            "first": "Tarell",
+                                            "last": "Brown"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Texas"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10423",
+                                    "uniform_number": "71",
+                                    "position_regular": "defensive-end",
+                                    "height": "6-4",
+                                    "weight": "285",
+                                    "status": "A",
+                                    "date_of_birth": "4/27/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Brian",
+                                            "last": "Bulcke"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Stanford"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8888",
+                                    "uniform_number": "82",
+                                    "position_regular": "tight-end",
+                                    "height": "6-4",
+                                    "weight": "268",
+                                    "status": "A",
+                                    "date_of_birth": "6/27/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Nate",
+                                            "last": "Byham"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Pittsburgh"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8589",
+                                    "uniform_number": "83",
+                                    "position_regular": "tight-end",
+                                    "height": "6-2",
+                                    "weight": "245",
+                                    "status": "A",
+                                    "date_of_birth": "9/16/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Colin",
+                                            "last": "Cloherty"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "1",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Brown"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8835",
+                                    "uniform_number": "43",
+                                    "position_regular": "fullback",
+                                    "height": "6-1",
+                                    "weight": "230",
+                                    "status": "A",
+                                    "date_of_birth": "6/26/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Jack",
+                                            "last": "Corcoran"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Rutgers"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6116",
+                                    "uniform_number": "54",
+                                    "position_regular": "linebacker",
+                                    "height": "6-1",
+                                    "weight": "235",
+                                    "status": "A",
+                                    "date_of_birth": "4/14/1984",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Blake",
+                                            "last": "Costanzo"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Lafayette"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7611",
+                                    "uniform_number": "15",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-1",
+                                    "weight": "214",
+                                    "status": "U",
+                                    "date_of_birth": "9/14/1987",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "WR",
+                                    "name": [
+                                        {
+                                            "first": "Michael",
+                                            "last": "Crabtree"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "3",
+                                            "phase_status": "physically-unable",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Texas Tech"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9946",
+                                    "uniform_number": "29",
+                                    "position_regular": "cornerback",
+                                    "height": "6-0",
+                                    "weight": "199",
+                                    "status": "A",
+                                    "date_of_birth": "8/17/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Chris",
+                                            "last": "Culliver"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "South Carolina"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8782",
+                                    "uniform_number": "76",
+                                    "position_regular": "tackle-offensive",
+                                    "height": "6-5",
+                                    "weight": "323",
+                                    "status": "A",
+                                    "date_of_birth": "10/11/1989",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "RT",
+                                    "name": [
+                                        {
+                                            "first": "Anthony",
+                                            "last": "Davis"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Rutgers"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5814",
+                                    "uniform_number": "85",
+                                    "position_regular": "tight-end",
+                                    "height": "6-3",
+                                    "weight": "250",
+                                    "status": "A",
+                                    "date_of_birth": "1/31/1984",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "TE",
+                                    "name": [
+                                        {
+                                            "first": "Vernon",
+                                            "last": "Davis"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "6",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Maryland"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10418",
+                                    "uniform_number": "33",
+                                    "position_regular": "cornerback",
+                                    "height": "5-10",
+                                    "weight": "173",
+                                    "status": "A",
+                                    "date_of_birth": "1/1/2000",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Phillip",
+                                            "last": "Davis"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Tulane"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8807",
+                                    "uniform_number": "24",
+                                    "position_regular": "running-back",
+                                    "height": "6-1",
+                                    "weight": "233",
+                                    "status": "A",
+                                    "date_of_birth": "9/24/1987",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "RB",
+                                    "name": [
+                                        {
+                                            "first": "Anthony",
+                                            "last": "Dixon"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Mississippi State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10424",
+                                    "uniform_number": "78",
+                                    "position_regular": "defensive-end",
+                                    "height": "6-6",
+                                    "weight": "275",
+                                    "status": "A",
+                                    "date_of_birth": "11/30/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Demarcus",
+                                            "last": "Dobbs"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Georgia"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10425",
+                                    "uniform_number": "63",
+                                    "position_regular": "center,guard",
+                                    "height": "6-5",
+                                    "weight": "280",
+                                    "status": "A",
+                                    "date_of_birth": "6/15/1989",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Donovan",
+                                            "last": "Edwards"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "California"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.4935",
+                                    "uniform_number": "17",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-3",
+                                    "weight": "214",
+                                    "status": "A",
+                                    "date_of_birth": "2/21/1983",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Braylon",
+                                            "last": "Edwards"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "7",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Michigan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6575",
+                                    "uniform_number": "19",
+                                    "position_regular": "wide-receiver",
+                                    "height": "5-11",
+                                    "weight": "180",
+                                    "status": "A",
+                                    "date_of_birth": "4/12/1985",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "WR",
+                                    "name": [
+                                        {
+                                            "first": "Ted",
+                                            "last": "Ginn Jr."
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Ohio State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6760",
+                                    "uniform_number": "38",
+                                    "position_regular": "safety",
+                                    "height": "6-2",
+                                    "weight": "200",
+                                    "status": "A",
+                                    "date_of_birth": "9/18/1984",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "FS",
+                                    "name": [
+                                        {
+                                            "first": "Dashon",
+                                            "last": "Goldson"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Washington"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.3086",
+                                    "uniform_number": "76",
+                                    "position_regular": "guard",
+                                    "height": "6-3",
+                                    "weight": "318",
+                                    "status": "A",
+                                    "date_of_birth": "12/2/1978",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Jonathan",
+                                            "last": "Goodwin"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "10",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Michigan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5083",
+                                    "uniform_number": "21",
+                                    "position_regular": "running-back",
+                                    "height": "5-9",
+                                    "weight": "217",
+                                    "status": "A",
+                                    "date_of_birth": "5/14/1983",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Frank",
+                                            "last": "Gore"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "7",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Miami-Florida"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7698",
+                                    "uniform_number": "54",
+                                    "position_regular": "linebacker",
+                                    "height": "6-1",
+                                    "weight": "251",
+                                    "status": "A",
+                                    "date_of_birth": "2/16/1985",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Larry",
+                                            "last": "Grant"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "4",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Ohio State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10426",
+                                    "uniform_number": "71",
+                                    "position_regular": "tackle-offensive",
+                                    "height": "6-5",
+                                    "weight": "307",
+                                    "status": "A",
+                                    "date_of_birth": "11/23/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Derek",
+                                            "last": "Hall"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Stanford"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5851",
+                                    "uniform_number": "98",
+                                    "position_regular": "linebacker",
+                                    "height": "6-0",
+                                    "weight": "255",
+                                    "status": "A",
+                                    "date_of_birth": "1/24/1984",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "ROLB",
+                                    "name": [
+                                        {
+                                            "first": "Parys",
+                                            "last": "Haralson"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "6",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Tennessee"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10427",
+                                    "uniform_number": "13",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-0",
+                                    "weight": "185",
+                                    "status": "A",
+                                    "date_of_birth": "5/5/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Joe",
+                                            "last": "Hastings"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Washburn"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10428",
+                                    "uniform_number": "5",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-1",
+                                    "weight": "220",
+                                    "status": "A",
+                                    "date_of_birth": "10/24/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Chris",
+                                            "last": "Hogan"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Monmouth"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9998",
+                                    "uniform_number": "41",
+                                    "position_regular": "cornerback",
+                                    "height": "5-10",
+                                    "weight": "193",
+                                    "status": "I",
+                                    "date_of_birth": "9/3/1988",
+                                    "health": "injured",
+                                    "name": [
+                                        {
+                                            "first": "Curtis",
+                                            "last": "Holcomb"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "injured",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Florida A&M"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9290",
+                                    "uniform_number": "60",
+                                    "position_regular": "guard",
+                                    "height": "6-5",
+                                    "weight": "295",
+                                    "status": "A",
+                                    "date_of_birth": "10/10/1986",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Nick",
+                                            "last": "Howell"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "1",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "U-S-C"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9837",
+                                    "uniform_number": "32",
+                                    "position_regular": "running-back",
+                                    "height": "5-7",
+                                    "weight": "199",
+                                    "status": "A",
+                                    "date_of_birth": "9/16/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Kendall",
+                                            "last": "Hunter"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Oklahoma State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8777",
+                                    "uniform_number": "77",
+                                    "position_regular": "guard",
+                                    "height": "6-5",
+                                    "weight": "331",
+                                    "status": "A",
+                                    "date_of_birth": "5/12/1987",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "LG",
+                                    "name": [
+                                        {
+                                            "first": "Mike",
+                                            "last": "Iupati"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Idaho"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8156",
+                                    "uniform_number": "95",
+                                    "position_regular": "tackle-defensive",
+                                    "height": "6-3",
+                                    "weight": "295",
+                                    "status": "A",
+                                    "date_of_birth": "11/23/1986",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "NT",
+                                    "name": [
+                                        {
+                                            "first": "Ricky",
+                                            "last": "Jean-Francois"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "3",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "L-S-U"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.1528",
+                                    "uniform_number": "86",
+                                    "position_regular": "long-snapper",
+                                    "height": "6-5",
+                                    "weight": "242",
+                                    "status": "A",
+                                    "date_of_birth": "10/14/1976",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Brian",
+                                            "last": "Jennings"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "12",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Arizona State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9798",
+                                    "uniform_number": "88",
+                                    "position_regular": "wide-receiver",
+                                    "height": "5-11",
+                                    "weight": "199",
+                                    "status": "A",
+                                    "date_of_birth": "8/3/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Ronald",
+                                            "last": "Johnson"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "U-S-C"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9970",
+                                    "uniform_number": "43",
+                                    "position_regular": "safety",
+                                    "height": "5-11",
+                                    "weight": "202",
+                                    "status": "A",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Colin",
+                                            "last": "Jones"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "T-C-U"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9357",
+                                    "uniform_number": "58",
+                                    "position_regular": "linebacker",
+                                    "height": "6-2",
+                                    "weight": "240",
+                                    "status": "A",
+                                    "date_of_birth": "7/6/1988",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "ILB",
+                                    "name": [
+                                        {
+                                            "first": "Alex",
+                                            "last": "Joseph"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "1",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Temple"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9422",
+                                    "uniform_number": "14",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-0",
+                                    "weight": "190",
+                                    "status": "A",
+                                    "date_of_birth": "6/30/1986",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Kevin",
+                                            "last": "Jurovich"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "1",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "San Jose State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9773",
+                                    "uniform_number": "7",
+                                    "position_regular": "quarterback",
+                                    "height": "6-5",
+                                    "weight": "233",
+                                    "status": "A",
+                                    "date_of_birth": "11/3/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Colin",
+                                            "last": "Kaepernick"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Nevada"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9732",
+                                    "uniform_number": "67",
+                                    "position_regular": "guard",
+                                    "height": "6-3",
+                                    "weight": "308",
+                                    "status": "A",
+                                    "date_of_birth": "12/18/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Daniel",
+                                            "last": "Kilgore"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Appalachian State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9462",
+                                    "uniform_number": "57",
+                                    "position_regular": "linebacker",
+                                    "height": "6-3",
+                                    "weight": "234",
+                                    "status": "A",
+                                    "date_of_birth": "4/25/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Keaton",
+                                            "last": "Kristick"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Oregon State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.4817",
+                                    "uniform_number": "89",
+                                    "position_regular": "tight-end",
+                                    "height": "6-6",
+                                    "weight": "255",
+                                    "status": "A",
+                                    "date_of_birth": "10/17/1981",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Nate",
+                                            "last": "Lawrie"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Yale"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.4514",
+                                    "uniform_number": "4",
+                                    "position_regular": "punter",
+                                    "height": "6-2",
+                                    "weight": "180",
+                                    "status": "A",
+                                    "date_of_birth": "8/11/1982",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "P",
+                                    "name": [
+                                        {
+                                            "first": "Andy",
+                                            "last": "Lee"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "8",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Pittsburgh"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7829",
+                                    "uniform_number": "18",
+                                    "position_regular": "wide-receiver",
+                                    "height": "5-11",
+                                    "weight": "186",
+                                    "status": "A",
+                                    "date_of_birth": "5/4/1985",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Lance",
+                                            "last": "Long"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Mississippi State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9464",
+                                    "uniform_number": "40",
+                                    "position_regular": "safety",
+                                    "height": "5-10",
+                                    "weight": "200",
+                                    "status": "A",
+                                    "date_of_birth": "1/6/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Chris",
+                                            "last": "Maragos"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Wisconsin"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10429",
+                                    "uniform_number": "3",
+                                    "position_regular": "quarterback",
+                                    "height": "5-11",
+                                    "weight": "220",
+                                    "status": "A",
+                                    "date_of_birth": "8/24/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Jeremiah",
+                                            "last": "Masoli"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Ole Miss"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9110",
+                                    "uniform_number": "23",
+                                    "position_regular": "safety",
+                                    "height": "6-3",
+                                    "weight": "230",
+                                    "status": "A",
+                                    "date_of_birth": "2/7/1988",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "SS",
+                                    "name": [
+                                        {
+                                            "first": "Taylor",
+                                            "last": "Mays"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "U-S-C"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6504",
+                                    "uniform_number": "91",
+                                    "position_regular": "tackle-defensive",
+                                    "height": "6-3",
+                                    "weight": "290",
+                                    "status": "A",
+                                    "date_of_birth": "9/20/1984",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "LDE",
+                                    "name": [
+                                        {
+                                            "first": "Ray",
+                                            "last": "McDonald"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Florida"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9924",
+                                    "uniform_number": "49",
+                                    "position_regular": "fullback",
+                                    "height": "6-1",
+                                    "weight": "248",
+                                    "status": "A",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Bruce",
+                                            "last": "Miller"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "U-C-F"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7671",
+                                    "uniform_number": "84",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-0",
+                                    "weight": "219",
+                                    "status": "A",
+                                    "date_of_birth": "6/20/1985",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "WR",
+                                    "name": [
+                                        {
+                                            "first": "Josh",
+                                            "last": "Morgan"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "4",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Virginia Tech"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10430",
+                                    "uniform_number": "32",
+                                    "position_regular": "cornerback",
+                                    "height": "6-0",
+                                    "weight": "195",
+                                    "status": "A",
+                                    "date_of_birth": "2/27/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Cory",
+                                            "last": "Nelms"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Miami-Florida"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.1290",
+                                    "uniform_number": "44",
+                                    "position_regular": "fullback",
+                                    "height": "6-1",
+                                    "weight": "250",
+                                    "status": "A",
+                                    "date_of_birth": "6/16/1978",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "FB",
+                                    "name": [
+                                        {
+                                            "first": "Moran",
+                                            "last": "Norris"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "11",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Kansas"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7676",
+                                    "uniform_number": "33",
+                                    "position_regular": "running-back",
+                                    "height": "5-11",
+                                    "weight": "227",
+                                    "status": "A",
+                                    "date_of_birth": "2/15/1985",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Xavier",
+                                            "last": "Omon"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "3",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "NW Missouri State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9992",
+                                    "uniform_number": "78",
+                                    "position_regular": "guard",
+                                    "height": "6-4",
+                                    "weight": "299",
+                                    "status": "A",
+                                    "date_of_birth": "6/17/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Mike",
+                                            "last": "Person"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Montana State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7325",
+                                    "uniform_number": "62",
+                                    "position_regular": "guard",
+                                    "height": "6-5",
+                                    "weight": "323",
+                                    "status": "A",
+                                    "date_of_birth": "3/15/1986",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "RG",
+                                    "name": [
+                                        {
+                                            "first": "Chilo",
+                                            "last": "Rachal"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "4",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "U-S-C"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10431",
+                                    "uniform_number": "48",
+                                    "position_regular": "tight-end",
+                                    "height": "6-4",
+                                    "weight": "260",
+                                    "status": "A",
+                                    "date_of_birth": "4/4/1987",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Konrad",
+                                            "last": "Reuland"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Stanford"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5135",
+                                    "uniform_number": "22",
+                                    "position_regular": "defensive-back",
+                                    "height": "6-0",
+                                    "weight": "189",
+                                    "status": "A",
+                                    "date_of_birth": "7/2/1981",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Carlos",
+                                            "last": "Rogers"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "7",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Auburn"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9932",
+                                    "uniform_number": "50",
+                                    "position_regular": "linebacker",
+                                    "height": "6-3",
+                                    "weight": "231",
+                                    "status": "A",
+                                    "date_of_birth": "4/22/1989",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Kenny",
+                                            "last": "Rowe"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Oregon"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9590",
+                                    "uniform_number": "9",
+                                    "position_regular": "kicker",
+                                    "height": "6-1",
+                                    "weight": "210",
+                                    "status": "A",
+                                    "date_of_birth": "12/10/1984",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Fabrizio",
+                                            "last": "Scaccia"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "1",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "None"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10432",
+                                    "uniform_number": "61",
+                                    "position_regular": "nose-tackle",
+                                    "height": "6-2",
+                                    "weight": "307",
+                                    "status": "A",
+                                    "date_of_birth": "4/26/1990",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Sealver",
+                                            "last": "Siliga"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Utah"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10433",
+                                    "uniform_number": "47",
+                                    "position_regular": "linebacker",
+                                    "height": "6-3",
+                                    "weight": "226",
+                                    "status": "A",
+                                    "date_of_birth": "1/29/1989",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Monte",
+                                            "last": "Simmons"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Kent State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10434",
+                                    "uniform_number": "26",
+                                    "position_regular": "running-back",
+                                    "height": "5-8",
+                                    "weight": "198",
+                                    "status": "A",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Seth",
+                                            "last": "Smith"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "New Mexico State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5081",
+                                    "uniform_number": "11",
+                                    "position_regular": "quarterback",
+                                    "height": "6-4",
+                                    "weight": "217",
+                                    "status": "A",
+                                    "date_of_birth": "5/7/1984",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "QB",
+                                    "name": [
+                                        {
+                                            "first": "Alex",
+                                            "last": "Smith"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "7",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Utah"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.1780",
+                                    "uniform_number": "94",
+                                    "position_regular": "defensive-end",
+                                    "height": "6-4",
+                                    "weight": "285",
+                                    "status": "A",
+                                    "date_of_birth": "9/30/1979",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "RDE",
+                                    "name": [
+                                        {
+                                            "first": "Justin",
+                                            "last": "Smith"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "11",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Missouri"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7613",
+                                    "uniform_number": "30",
+                                    "position_regular": "safety",
+                                    "height": "6-1",
+                                    "weight": "200",
+                                    "status": "A",
+                                    "date_of_birth": "9/13/1986",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "SS",
+                                    "name": [
+                                        {
+                                            "first": "Reggie",
+                                            "last": "Smith"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "4",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Oklahoma"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9672",
+                                    "uniform_number": "48",
+                                    "position_regular": "linebacker",
+                                    "height": "6-4",
+                                    "weight": "263",
+                                    "status": "A",
+                                    "date_of_birth": "1/1/1990",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Aldon",
+                                            "last": "Smith"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Missouri"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5084",
+                                    "uniform_number": "68",
+                                    "position_regular": "tackle-offensive",
+                                    "height": "6-6",
+                                    "weight": "325",
+                                    "status": "A",
+                                    "date_of_birth": "1/30/1982",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "LT",
+                                    "name": [
+                                        {
+                                            "first": "Adam",
+                                            "last": "Snyder"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "6",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Oregon"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.4572",
+                                    "uniform_number": "90",
+                                    "position_regular": "lineman-defensive",
+                                    "height": "6-2",
+                                    "weight": "330",
+                                    "status": "A",
+                                    "date_of_birth": "9/4/1981",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "LDE",
+                                    "name": [
+                                        {
+                                            "first": "Isaac",
+                                            "last": "Sopoaga"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "8",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Hawaii"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.4530",
+                                    "uniform_number": "36",
+                                    "position_regular": "cornerback",
+                                    "height": "6-1",
+                                    "weight": "190",
+                                    "status": "A",
+                                    "date_of_birth": "2/22/1982",
+                                    "health": "fine",
+                                    "position_depth": "1",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "LCB",
+                                    "name": [
+                                        {
+                                            "first": "Shawntae",
+                                            "last": "Spencer"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "8",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Pittsburgh"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8640",
+                                    "uniform_number": "27",
+                                    "position_regular": "safety-free",
+                                    "height": "6-0",
+                                    "weight": "199",
+                                    "status": "A",
+                                    "date_of_birth": "5/6/1986",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "C.J.",
+                                            "last": "Spillman"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "3",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Marshall"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6707",
+                                    "uniform_number": "74",
+                                    "position_regular": "tackle-offensive",
+                                    "height": "6-5",
+                                    "weight": "315",
+                                    "status": "A",
+                                    "date_of_birth": "8/30/1984",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Joe",
+                                            "last": "Staley"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Central Michigan"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.8304",
+                                    "uniform_number": "28",
+                                    "position_regular": "safety",
+                                    "height": "6-2",
+                                    "weight": "209",
+                                    "status": "A",
+                                    "date_of_birth": "7/13/1985",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Curtis",
+                                            "last": "Taylor"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "3",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "L-S-U"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9004",
+                                    "uniform_number": "63",
+                                    "position_regular": "defensive-end",
+                                    "height": "6-4",
+                                    "weight": "272",
+                                    "status": "A",
+                                    "date_of_birth": "1/3/1984",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Will",
+                                            "last": "Tukuafu"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "1",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Oregon"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5996",
+                                    "uniform_number": "46",
+                                    "position_regular": "tight-end",
+                                    "height": "6-0",
+                                    "weight": "242",
+                                    "status": "A",
+                                    "date_of_birth": "8/12/1984",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "TE",
+                                    "name": [
+                                        {
+                                            "first": "Delanie",
+                                            "last": "Walker"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "6",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Central Missouri St"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10435",
+                                    "uniform_number": "45",
+                                    "position_regular": "defensive-back",
+                                    "height": "6-0",
+                                    "weight": "205",
+                                    "status": "A",
+                                    "date_of_birth": "3/29/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Anthony",
+                                            "last": "West"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Nebraska"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.5683",
+                                    "uniform_number": "31",
+                                    "position_regular": "safety",
+                                    "height": "5-10",
+                                    "weight": "208",
+                                    "status": "A",
+                                    "date_of_birth": "7/24/1985",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Donte",
+                                            "last": "Whitner"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "6",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Ohio State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.10436",
+                                    "uniform_number": "65",
+                                    "position_regular": "tackle-offensive",
+                                    "height": "6-6",
+                                    "weight": "314",
+                                    "status": "A",
+                                    "date_of_birth": "8/8/1988",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Kenny",
+                                            "last": "Wiggins"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Fresno State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9644",
+                                    "uniform_number": "64",
+                                    "position_regular": "nose-tackle",
+                                    "height": "6-2",
+                                    "weight": "305",
+                                    "status": "A",
+                                    "date_of_birth": "8/31/1989",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Ian",
+                                            "last": "Williams"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "R",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Notre Dame"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.4606",
+                                    "uniform_number": "20",
+                                    "position_regular": "defensive-back",
+                                    "height": "6-1",
+                                    "weight": "203",
+                                    "status": "A",
+                                    "date_of_birth": "10/18/1981",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Madieu",
+                                            "last": "Williams"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "8",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Maryland"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.9154",
+                                    "uniform_number": "10",
+                                    "position_regular": "wide-receiver",
+                                    "height": "5-11",
+                                    "weight": "186",
+                                    "status": "A",
+                                    "date_of_birth": "7/19/1988",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "WR",
+                                    "name": [
+                                        {
+                                            "first": "Kyle",
+                                            "last": "Williams"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "2",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Arizona State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.6567",
+                                    "uniform_number": "52",
+                                    "position_regular": "linebacker",
+                                    "height": "6-1",
+                                    "weight": "240",
+                                    "status": "A",
+                                    "date_of_birth": "1/25/1985",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Patrick",
+                                            "last": "Willis"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "5",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Ole Miss"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.2082",
+                                    "uniform_number": "69",
+                                    "position_regular": "guard",
+                                    "height": "6-4",
+                                    "weight": "310",
+                                    "status": "A",
+                                    "date_of_birth": "8/14/1979",
+                                    "health": "fine",
+                                    "position_depth": "2",
+                                    "{http://www.xmlteam.com}tsn_depth_position": "C",
+                                    "name": [
+                                        {
+                                            "first": "Tony",
+                                            "last": "Wragge"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "7",
+                                            "phase_status": "active",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "New Mexico State"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.7071",
+                                    "uniform_number": "17",
+                                    "position_regular": "wide-receiver",
+                                    "height": "6-3",
+                                    "weight": "185",
+                                    "status": "U",
+                                    "date_of_birth": "10/11/1984",
+                                    "health": "fine",
+                                    "name": [
+                                        {
+                                            "first": "Dominique",
+                                            "last": "Zeigler"
+                                        }
+                                    ],
+                                    "career_phase": [
+                                        {
+                                            "phase_type": "professional",
+                                            "duration": "3",
+                                            "phase_status": "physically-unable",
+                                            "phase_caliber": "team",
+                                            "phase_caliber_key": "l.nfl.com-t.31"
+                                        },
+                                        {
+                                            "phase_type": "college",
+                                            "name": "Baylor"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "player_metadata": [
+                                {
+                                    "player_key": "l.nfl.com-p.18t",
+                                    "position_regular": "defense",
+                                    "status": "A",
+                                    "name": [
+                                        {
+                                            "first": "San Francisco",
+                                            "last": "49ers"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

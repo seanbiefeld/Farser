@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sports-content>
+
+<sports-content xmlns:str="java.lang.String" xmlns:dt="http://xsltsl.org/date-time" xmlns:xts="http://www.xmlteam.com" xmlns:exsl="http://exslt.org/common" path-id="american-football/l.nfl.com/dynamic-resource-file/xt.14094388-roster-sfx" xts:systemid="NFL_Roster_XML" xts:tsnid="14094388">
+  <sports-metadata xmlns:fs="java.io.File" date-time="20110816T093600-0400" doc-id="xt.14094388-roster-sfx" xts:tsnslug="ABX%ROSTER-SFX" language="en-US" revision-id="l.nfl.com-t.31-2011-roster" fixture-key="roster" document-class="dynamic-resource-file" fixture-name="Roster">
+    <sports-title>2011 San Francisco 49ers Roster</sports-title>
+    <sports-content-codes>
+      <sports-content-code code-name="The Sports Network" code-key="sportsnetwork.com" code-type="publisher" />
+      <sports-content-code code-name="XML Team Solutions, Inc." code-key="xmlteam.com" code-type="distributor" />
+      <sports-content-code code-type="sport" code-key="15003000" code-name="American Football" />
+      <sports-content-code code-type="league" code-key="l.nfl.com" code-name="National Football League" />
+      <sports-content-code code-type="priority" code-key="normal" />
+      <sports-content-code code-type="conference" code-key="c.nfc" code-name="National" />
+      <sports-content-code code-type="team" code-key="l.nfl.com-t.31" code-name="San Francisco 49ers" />
+      <sports-content-code code-type="roster-listing" code-key="complete" code-name="Roster Listing" />
+    </sports-content-codes>
+  </sports-metadata>
+  <statistic content-label="Team Roster">
+    <statistic-metadata team-coverage="single-team" date-coverage-type="season-regular" date-coverage-value="2011" />
+    <team>
+      <team-metadata xmlns:fs="java.io.File" team-key="l.nfl.com-t.31" alignment="none">
+        <name first="San Francisco" last="49ers" />
+      </team-metadata>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9161" uniform-number="35" position-regular="cornerback" height="5-11" weight="193" status="A" date-of-birth="7/20/1988" health="fine">
+          <name first="Phillip" last="Adams" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="South Carolina State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.1327" uniform-number="2" position-regular="kicker" height="5-10" weight="200" status="A" date-of-birth="12/9/1974" health="fine">
+          <name first="David" last="Akers" />
+          <career-phase phase-type="professional" duration="13" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Louisville" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6934" uniform-number="54" position-regular="linebacker" height="6-3" weight="258" status="A" date-of-birth="12/31/1985" health="fine">
+          <name first="Antwan" last="Applewhite" />
+          <career-phase phase-type="professional" duration="4" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="San Diego State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10419" uniform-number="61" position-regular="center" height="6-3" weight="285" status="A" date-of-birth="12/28/1987" health="fine">
+          <name first="Chase" last="Beeler" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Stanford" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10420" uniform-number="6" position-regular="wide-receiver" height="6-0" weight="190" status="A" date-of-birth="11/14/1988" health="fine">
+          <name first="Tyler" last="Beiler" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Bridgewater" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10421" uniform-number="1" position-regular="quarterback" height="6-4" weight="230" status="A" health="fine">
+          <name first="McLeod" last="Bethel-Thompson" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Sacramento State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10422" uniform-number="9" position-regular="wide-receiver" height="6-1" weight="188" status="I" date-of-birth="10/6/1988" health="injured">
+          <name first="Dontavia" last="Bogan" />
+          <career-phase phase-type="professional" duration="R" phase-status="injured" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="USF" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8212" uniform-number="75" position-regular="tackle-offensive" height="6-7" weight="328" status="A" date-of-birth="5/4/1987" health="fine" position-depth="2" xts:tsn-depth-position="RT">
+          <name first="Alex" last="Boone" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Ohio State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9017" uniform-number="53" position-regular="linebacker" height="6-0" weight="242" status="A" date-of-birth="5/28/1988" health="fine">
+          <name first="NaVorro" last="Bowman" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Penn State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9460" uniform-number="26" position-regular="cornerback" height="5-10" weight="197" status="A" date-of-birth="8/20/1988" health="fine">
+          <name first="Tramaine" last="Brock" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Belhaven College" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6396" uniform-number="55" position-regular="linebacker" height="6-3" weight="259" status="A" date-of-birth="3/14/1984" health="fine" position-depth="2" xts:tsn-depth-position="LOLB">
+          <name first="Ahmad" last="Brooks" />
+          <career-phase phase-type="professional" duration="6" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Virginia" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6652" uniform-number="25" position-regular="cornerback" height="5-10" weight="193" status="A" date-of-birth="1/6/1985" health="fine" position-depth="2" xts:tsn-depth-position="LCB">
+          <name first="Tarell" last="Brown" />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Texas" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10423" uniform-number="71" position-regular="defensive-end" height="6-4" weight="285" status="A" date-of-birth="4/27/1987" health="fine">
+          <name first="Brian" last="Bulcke" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Stanford" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8888" uniform-number="82" position-regular="tight-end" height="6-4" weight="268" status="A" date-of-birth="6/27/1988" health="fine">
+          <name first="Nate" last="Byham" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Pittsburgh" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8589" uniform-number="83" position-regular="tight-end" height="6-2" weight="245" status="A" date-of-birth="9/16/1987" health="fine">
+          <name first="Colin" last="Cloherty" />
+          <career-phase phase-type="professional" duration="1" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Brown" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8835" uniform-number="43" position-regular="fullback" height="6-1" weight="230" status="A" date-of-birth="6/26/1987" health="fine">
+          <name first="Jack" last="Corcoran" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Rutgers" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6116" uniform-number="54" position-regular="linebacker" height="6-1" weight="235" status="A" date-of-birth="4/14/1984" health="fine">
+          <name first="Blake" last="Costanzo" />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Lafayette" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7611" uniform-number="15" position-regular="wide-receiver" height="6-1" weight="214" status="U" date-of-birth="9/14/1987" health="fine" position-depth="1" xts:tsn-depth-position="WR">
+          <name first="Michael" last="Crabtree" />
+          <career-phase phase-type="professional" duration="3" phase-status="physically-unable" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Texas Tech" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9946" uniform-number="29" position-regular="cornerback" height="6-0" weight="199" status="A" date-of-birth="8/17/1988" health="fine">
+          <name first="Chris" last="Culliver" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="South Carolina" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8782" uniform-number="76" position-regular="tackle-offensive" height="6-5" weight="323" status="A" date-of-birth="10/11/1989" health="fine" position-depth="1" xts:tsn-depth-position="RT">
+          <name first="Anthony" last="Davis" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Rutgers" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5814" uniform-number="85" position-regular="tight-end" height="6-3" weight="250" status="A" date-of-birth="1/31/1984" health="fine" position-depth="1" xts:tsn-depth-position="TE">
+          <name first="Vernon" last="Davis" />
+          <career-phase phase-type="professional" duration="6" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Maryland" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10418" uniform-number="33" position-regular="cornerback" height="5-10" weight="173" status="A" date-of-birth="1/1/2000" health="fine">
+          <name first="Phillip" last="Davis" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Tulane" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8807" uniform-number="24" position-regular="running-back" height="6-1" weight="233" status="A" date-of-birth="9/24/1987" health="fine" position-depth="2" xts:tsn-depth-position="RB">
+          <name first="Anthony" last="Dixon" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Mississippi State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10424" uniform-number="78" position-regular="defensive-end" height="6-6" weight="275" status="A" date-of-birth="11/30/1987" health="fine">
+          <name first="Demarcus" last="Dobbs" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Georgia" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10425" uniform-number="63" position-regular="center,guard" height="6-5" weight="280" status="A" date-of-birth="6/15/1989" health="fine">
+          <name first="Donovan" last="Edwards" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="California" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.4935" uniform-number="17" position-regular="wide-receiver" height="6-3" weight="214" status="A" date-of-birth="2/21/1983" health="fine">
+          <name first="Braylon" last="Edwards" />
+          <career-phase phase-type="professional" duration="7" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Michigan" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6575" uniform-number="19" position-regular="wide-receiver" height="5-11" weight="180" status="A" date-of-birth="4/12/1985" health="fine" position-depth="2" xts:tsn-depth-position="WR">
+          <name first="Ted" last="Ginn Jr." />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Ohio State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6760" uniform-number="38" position-regular="safety" height="6-2" weight="200" status="A" date-of-birth="9/18/1984" health="fine" position-depth="1" xts:tsn-depth-position="FS">
+          <name first="Dashon" last="Goldson" />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Washington" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.3086" uniform-number="76" position-regular="guard" height="6-3" weight="318" status="A" date-of-birth="12/2/1978" health="fine">
+          <name first="Jonathan" last="Goodwin" />
+          <career-phase phase-type="professional" duration="10" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Michigan" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5083" uniform-number="21" position-regular="running-back" height="5-9" weight="217" status="A" date-of-birth="5/14/1983" health="fine">
+          <name first="Frank" last="Gore" />
+          <career-phase phase-type="professional" duration="7" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Miami-Florida" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7698" uniform-number="54" position-regular="linebacker" height="6-1" weight="251" status="A" date-of-birth="2/16/1985" health="fine">
+          <name first="Larry" last="Grant" />
+          <career-phase phase-type="professional" duration="4" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Ohio State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10426" uniform-number="71" position-regular="tackle-offensive" height="6-5" weight="307" status="A" date-of-birth="11/23/1987" health="fine">
+          <name first="Derek" last="Hall" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Stanford" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5851" uniform-number="98" position-regular="linebacker" height="6-0" weight="255" status="A" date-of-birth="1/24/1984" health="fine" position-depth="1" xts:tsn-depth-position="ROLB">
+          <name first="Parys" last="Haralson" />
+          <career-phase phase-type="professional" duration="6" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Tennessee" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10427" uniform-number="13" position-regular="wide-receiver" height="6-0" weight="185" status="A" date-of-birth="5/5/1987" health="fine">
+          <name first="Joe" last="Hastings" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Washburn" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10428" uniform-number="5" position-regular="wide-receiver" height="6-1" weight="220" status="A" date-of-birth="10/24/1988" health="fine">
+          <name first="Chris" last="Hogan" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Monmouth" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9998" uniform-number="41" position-regular="cornerback" height="5-10" weight="193" status="I" date-of-birth="9/3/1988" health="injured">
+          <name first="Curtis" last="Holcomb" />
+          <career-phase phase-type="professional" duration="R" phase-status="injured" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Florida A&amp;M" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9290" uniform-number="60" position-regular="guard" height="6-5" weight="295" status="A" date-of-birth="10/10/1986" health="fine">
+          <name first="Nick" last="Howell" />
+          <career-phase phase-type="professional" duration="1" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="U-S-C" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9837" uniform-number="32" position-regular="running-back" height="5-7" weight="199" status="A" date-of-birth="9/16/1988" health="fine">
+          <name first="Kendall" last="Hunter" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Oklahoma State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8777" uniform-number="77" position-regular="guard" height="6-5" weight="331" status="A" date-of-birth="5/12/1987" health="fine" position-depth="1" xts:tsn-depth-position="LG">
+          <name first="Mike" last="Iupati" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Idaho" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8156" uniform-number="95" position-regular="tackle-defensive" height="6-3" weight="295" status="A" date-of-birth="11/23/1986" health="fine" position-depth="2" xts:tsn-depth-position="NT">
+          <name first="Ricky" last="Jean-Francois" />
+          <career-phase phase-type="professional" duration="3" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="L-S-U" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.1528" uniform-number="86" position-regular="long-snapper" height="6-5" weight="242" status="A" date-of-birth="10/14/1976" health="fine">
+          <name first="Brian" last="Jennings" />
+          <career-phase phase-type="professional" duration="12" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Arizona State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9798" uniform-number="88" position-regular="wide-receiver" height="5-11" weight="199" status="A" date-of-birth="8/3/1988" health="fine">
+          <name first="Ronald" last="Johnson" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="U-S-C" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9970" uniform-number="43" position-regular="safety" height="5-11" weight="202" status="A" health="fine">
+          <name first="Colin" last="Jones" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="T-C-U" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9357" uniform-number="58" position-regular="linebacker" height="6-2" weight="240" status="A" date-of-birth="7/6/1988" health="fine" position-depth="2" xts:tsn-depth-position="ILB">
+          <name first="Alex" last="Joseph" />
+          <career-phase phase-type="professional" duration="1" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Temple" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9422" uniform-number="14" position-regular="wide-receiver" height="6-0" weight="190" status="A" date-of-birth="6/30/1986" health="fine">
+          <name first="Kevin" last="Jurovich" />
+          <career-phase phase-type="professional" duration="1" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="San Jose State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9773" uniform-number="7" position-regular="quarterback" height="6-5" weight="233" status="A" date-of-birth="11/3/1987" health="fine">
+          <name first="Colin" last="Kaepernick" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Nevada" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9732" uniform-number="67" position-regular="guard" height="6-3" weight="308" status="A" date-of-birth="12/18/1987" health="fine">
+          <name first="Daniel" last="Kilgore" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Appalachian State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9462" uniform-number="57" position-regular="linebacker" height="6-3" weight="234" status="A" date-of-birth="4/25/1988" health="fine">
+          <name first="Keaton" last="Kristick" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Oregon State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.4817" uniform-number="89" position-regular="tight-end" height="6-6" weight="255" status="A" date-of-birth="10/17/1981" health="fine">
+          <name first="Nate" last="Lawrie" />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Yale" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.4514" uniform-number="4" position-regular="punter" height="6-2" weight="180" status="A" date-of-birth="8/11/1982" health="fine" position-depth="1" xts:tsn-depth-position="P">
+          <name first="Andy" last="Lee" />
+          <career-phase phase-type="professional" duration="8" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Pittsburgh" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7829" uniform-number="18" position-regular="wide-receiver" height="5-11" weight="186" status="A" date-of-birth="5/4/1985" health="fine">
+          <name first="Lance" last="Long" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Mississippi State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9464" uniform-number="40" position-regular="safety" height="5-10" weight="200" status="A" date-of-birth="1/6/1987" health="fine">
+          <name first="Chris" last="Maragos" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Wisconsin" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10429" uniform-number="3" position-regular="quarterback" height="5-11" weight="220" status="A" date-of-birth="8/24/1988" health="fine">
+          <name first="Jeremiah" last="Masoli" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Ole Miss" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9110" uniform-number="23" position-regular="safety" height="6-3" weight="230" status="A" date-of-birth="2/7/1988" health="fine" position-depth="2" xts:tsn-depth-position="SS">
+          <name first="Taylor" last="Mays" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="U-S-C" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6504" uniform-number="91" position-regular="tackle-defensive" height="6-3" weight="290" status="A" date-of-birth="9/20/1984" health="fine" position-depth="2" xts:tsn-depth-position="LDE">
+          <name first="Ray" last="McDonald" />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Florida" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9924" uniform-number="49" position-regular="fullback" height="6-1" weight="248" status="A" health="fine">
+          <name first="Bruce" last="Miller" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="U-C-F" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7671" uniform-number="84" position-regular="wide-receiver" height="6-0" weight="219" status="A" date-of-birth="6/20/1985" health="fine" position-depth="1" xts:tsn-depth-position="WR">
+          <name first="Josh" last="Morgan" />
+          <career-phase phase-type="professional" duration="4" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Virginia Tech" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10430" uniform-number="32" position-regular="cornerback" height="6-0" weight="195" status="A" date-of-birth="2/27/1988" health="fine">
+          <name first="Cory" last="Nelms" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Miami-Florida" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.1290" uniform-number="44" position-regular="fullback" height="6-1" weight="250" status="A" date-of-birth="6/16/1978" health="fine" position-depth="1" xts:tsn-depth-position="FB">
+          <name first="Moran" last="Norris" />
+          <career-phase phase-type="professional" duration="11" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Kansas" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7676" uniform-number="33" position-regular="running-back" height="5-11" weight="227" status="A" date-of-birth="2/15/1985" health="fine">
+          <name first="Xavier" last="Omon" />
+          <career-phase phase-type="professional" duration="3" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="NW Missouri State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9992" uniform-number="78" position-regular="guard" height="6-4" weight="299" status="A" date-of-birth="6/17/1988" health="fine">
+          <name first="Mike" last="Person" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Montana State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7325" uniform-number="62" position-regular="guard" height="6-5" weight="323" status="A" date-of-birth="3/15/1986" health="fine" position-depth="1" xts:tsn-depth-position="RG">
+          <name first="Chilo" last="Rachal" />
+          <career-phase phase-type="professional" duration="4" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="U-S-C" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10431" uniform-number="48" position-regular="tight-end" height="6-4" weight="260" status="A" date-of-birth="4/4/1987" health="fine">
+          <name first="Konrad" last="Reuland" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Stanford" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5135" uniform-number="22" position-regular="defensive-back" height="6-0" weight="189" status="A" date-of-birth="7/2/1981" health="fine">
+          <name first="Carlos" last="Rogers" />
+          <career-phase phase-type="professional" duration="7" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Auburn" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9932" uniform-number="50" position-regular="linebacker" height="6-3" weight="231" status="A" date-of-birth="4/22/1989" health="fine">
+          <name first="Kenny" last="Rowe" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Oregon" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9590" uniform-number="9" position-regular="kicker" height="6-1" weight="210" status="A" date-of-birth="12/10/1984" health="fine">
+          <name first="Fabrizio" last="Scaccia" />
+          <career-phase phase-type="professional" duration="1" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="None" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10432" uniform-number="61" position-regular="nose-tackle" height="6-2" weight="307" status="A" date-of-birth="4/26/1990" health="fine">
+          <name first="Sealver" last="Siliga" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Utah" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10433" uniform-number="47" position-regular="linebacker" height="6-3" weight="226" status="A" date-of-birth="1/29/1989" health="fine">
+          <name first="Monte" last="Simmons" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Kent State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10434" uniform-number="26" position-regular="running-back" height="5-8" weight="198" status="A" health="fine">
+          <name first="Seth" last="Smith" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="New Mexico State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5081" uniform-number="11" position-regular="quarterback" height="6-4" weight="217" status="A" date-of-birth="5/7/1984" health="fine" position-depth="1" xts:tsn-depth-position="QB">
+          <name first="Alex" last="Smith" />
+          <career-phase phase-type="professional" duration="7" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Utah" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.1780" uniform-number="94" position-regular="defensive-end" height="6-4" weight="285" status="A" date-of-birth="9/30/1979" health="fine" position-depth="1" xts:tsn-depth-position="RDE">
+          <name first="Justin" last="Smith" />
+          <career-phase phase-type="professional" duration="11" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Missouri" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7613" uniform-number="30" position-regular="safety" height="6-1" weight="200" status="A" date-of-birth="9/13/1986" health="fine" position-depth="1" xts:tsn-depth-position="SS">
+          <name first="Reggie" last="Smith" />
+          <career-phase phase-type="professional" duration="4" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Oklahoma" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9672" uniform-number="48" position-regular="linebacker" height="6-4" weight="263" status="A" date-of-birth="1/1/1990" health="fine">
+          <name first="Aldon" last="Smith" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Missouri" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5084" uniform-number="68" position-regular="tackle-offensive" height="6-6" weight="325" status="A" date-of-birth="1/30/1982" health="fine" position-depth="2" xts:tsn-depth-position="LT">
+          <name first="Adam" last="Snyder" />
+          <career-phase phase-type="professional" duration="6" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Oregon" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.4572" uniform-number="90" position-regular="lineman-defensive" height="6-2" weight="330" status="A" date-of-birth="9/4/1981" health="fine" position-depth="1" xts:tsn-depth-position="LDE">
+          <name first="Isaac" last="Sopoaga" />
+          <career-phase phase-type="professional" duration="8" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Hawaii" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.4530" uniform-number="36" position-regular="cornerback" height="6-1" weight="190" status="A" date-of-birth="2/22/1982" health="fine" position-depth="1" xts:tsn-depth-position="LCB">
+          <name first="Shawntae" last="Spencer" />
+          <career-phase phase-type="professional" duration="8" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Pittsburgh" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8640" uniform-number="27" position-regular="safety-free" height="6-0" weight="199" status="A" date-of-birth="5/6/1986" health="fine">
+          <name first="C.J." last="Spillman" />
+          <career-phase phase-type="professional" duration="3" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Marshall" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6707" uniform-number="74" position-regular="tackle-offensive" height="6-5" weight="315" status="A" date-of-birth="8/30/1984" health="fine">
+          <name first="Joe" last="Staley" />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Central Michigan" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.8304" uniform-number="28" position-regular="safety" height="6-2" weight="209" status="A" date-of-birth="7/13/1985" health="fine">
+          <name first="Curtis" last="Taylor" />
+          <career-phase phase-type="professional" duration="3" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="L-S-U" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9004" uniform-number="63" position-regular="defensive-end" height="6-4" weight="272" status="A" date-of-birth="1/3/1984" health="fine">
+          <name first="Will" last="Tukuafu" />
+          <career-phase phase-type="professional" duration="1" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Oregon" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5996" uniform-number="46" position-regular="tight-end" height="6-0" weight="242" status="A" date-of-birth="8/12/1984" health="fine" position-depth="2" xts:tsn-depth-position="TE">
+          <name first="Delanie" last="Walker" />
+          <career-phase phase-type="professional" duration="6" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Central Missouri St" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10435" uniform-number="45" position-regular="defensive-back" height="6-0" weight="205" status="A" date-of-birth="3/29/1988" health="fine">
+          <name first="Anthony" last="West" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Nebraska" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.5683" uniform-number="31" position-regular="safety" height="5-10" weight="208" status="A" date-of-birth="7/24/1985" health="fine">
+          <name first="Donte" last="Whitner" />
+          <career-phase phase-type="professional" duration="6" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Ohio State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.10436" uniform-number="65" position-regular="tackle-offensive" height="6-6" weight="314" status="A" date-of-birth="8/8/1988" health="fine">
+          <name first="Kenny" last="Wiggins" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Fresno State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9644" uniform-number="64" position-regular="nose-tackle" height="6-2" weight="305" status="A" date-of-birth="8/31/1989" health="fine">
+          <name first="Ian" last="Williams" />
+          <career-phase phase-type="professional" duration="R" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Notre Dame" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.4606" uniform-number="20" position-regular="defensive-back" height="6-1" weight="203" status="A" date-of-birth="10/18/1981" health="fine">
+          <name first="Madieu" last="Williams" />
+          <career-phase phase-type="professional" duration="8" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Maryland" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.9154" uniform-number="10" position-regular="wide-receiver" height="5-11" weight="186" status="A" date-of-birth="7/19/1988" health="fine" position-depth="2" xts:tsn-depth-position="WR">
+          <name first="Kyle" last="Williams" />
+          <career-phase phase-type="professional" duration="2" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Arizona State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.6567" uniform-number="52" position-regular="linebacker" height="6-1" weight="240" status="A" date-of-birth="1/25/1985" health="fine">
+          <name first="Patrick" last="Willis" />
+          <career-phase phase-type="professional" duration="5" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Ole Miss" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.2082" uniform-number="69" position-regular="guard" height="6-4" weight="310" status="A" date-of-birth="8/14/1979" health="fine" position-depth="2" xts:tsn-depth-position="C">
+          <name first="Tony" last="Wragge" />
+          <career-phase phase-type="professional" duration="7" phase-status="active" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="New Mexico State" />
+        </player-metadata>
+      </player>
+      <player>
+        <player-metadata player-key="l.nfl.com-p.7071" uniform-number="17" position-regular="wide-receiver" height="6-3" weight="185" status="U" date-of-birth="10/11/1984" health="fine">
+          <name first="Dominique" last="Zeigler" />
+          <career-phase phase-type="professional" duration="3" phase-status="physically-unable" phase-caliber="team" phase-caliber-key="l.nfl.com-t.31" />
+          <career-phase phase-type="college" name="Baylor" />
+        </player-metadata>
+      </player>
+	  <player>
+		<player-metadata player-key="l.nfl.com-p.18t" position-regular="defense" status="A">
+          <name first="San Francisco" last="49ers" />
+        </player-metadata>
+      </player>
+    </team>
+  </statistic>
+</sports-content>
+
